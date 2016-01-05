@@ -22,7 +22,7 @@ this may take a little while.  There may be a couple of errors, most of which ar
 3. When done we will boot the web server:
 
 ```sh
-node server.js
+npm start
 ```
 
 4. Navigate your web browser to [http://localhost:8080](http://localhost:8080) to view the site.
