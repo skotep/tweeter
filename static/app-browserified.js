@@ -47,6 +47,7 @@ return {tag: "div", attrs: {}, children: [
     {tag: "nav", attrs: {class:"navbar navbar-default navbar-static-top"}, children: [
          navbar 
     ]}
+
 ]}
 
 }
